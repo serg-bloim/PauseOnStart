@@ -1,0 +1,8 @@
+﻿{
+	"id": "PauseOnStart",
+	"version": "0.0.1",
+	"primary_dlls": ["PauseOnStart.dll"],
+	"non_locking_dll_load": true,
+	"can_add_to_saved_game": true,
+	"can_remove_from_saved_game": true
+}

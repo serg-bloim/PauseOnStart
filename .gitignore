@@ -1,0 +1,49 @@
+﻿# ==========================================
+# Build Outputs
+# ==========================================
+bin/
+obj/
+logs/
+
+# ==========================================
+# User-Specific / Local IDE Settings
+# ==========================================
+.vs/
+.idea/
+.vscode/
+*.user
+*.useros
+*.suo
+*.userprefs
+*.workspace
+.settings.user
+
+# ==========================================
+# NuGet Packages & Dependencies
+# ==========================================
+packages/
+*.nuget.props
+*.nuget.targets
+# Restore artifacts
+project.lock.json
+project.fragment.lock.json
+
+# ==========================================
+# Operating System Files
+# ==========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ==========================================
+# Secrets and Environment Files (NEVER COMMIT)
+# ==========================================
+.env
+.env.*
+appsettings.Development.json
+appsettings.Local.json
