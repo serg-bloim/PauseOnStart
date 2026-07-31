@@ -1,7 +1,7 @@
 ﻿{
 	"id": "PauseOnStart",
 	"display_name": "Pause On Start",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"primary_dlls": ["PauseOnStart.dll"],
 	"min_game_version": "0.8.5",
 	"non_locking_dll_load": true,
